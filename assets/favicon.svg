@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- TODO-ACTIVATE: FAVICON
+       Temporary icon: a navy square with a gold "S".
+       To use the real icon, replace these three files, keeping the same names:
+         assets/favicon.svg          (this file, square)
+         assets/apple-touch-icon.png (180 x 180 pixels)
+         favicon.ico                 (in the top folder, 32 x 32 pixels)
+       No page needs to be edited. See README.md, section "Favicon". -->
+  <rect width="64" height="64" fill="#0B1F3A"/>
+  <text x="32" y="47" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#C9A24B">S</text>
+</svg>
